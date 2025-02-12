@@ -12,4 +12,5 @@ int main() {
         else
             return 0;
     }
+    //keep_window_open() //uncomment the first part to use on windows!
 }
