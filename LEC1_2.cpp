@@ -8,4 +8,5 @@ int main() {
     string name = first + ' ' + second;
 
     cout << "Hello, "<<name<<'\n';
+    //keep_window_open() //uncomment the first part to use on windows!
 }

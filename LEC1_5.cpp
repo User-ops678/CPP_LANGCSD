@@ -8,4 +8,5 @@ int main() {
         cin >> length;
         cout << length << "in. = " << cm_per_inch*length << "cm.\n";
     }
+    //keep_window_open() //uncomment the first part to use on windows!
 }

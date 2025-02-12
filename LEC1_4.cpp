@@ -12,4 +12,5 @@ int main() {
          <<"\nhalf of n == " << n/2
          <<"\nsquare root of n == " << sqrt(n)
          <<endl;
+    //keep_window_open() //uncomment the first part to use on windows!
 }
