@@ -1,0 +1,3 @@
+/home/nikos/C++_LANGCSD/build/CMakeFiles/LEC9_1.dir
+/home/nikos/C++_LANGCSD/build/CMakeFiles/edit_cache.dir
+/home/nikos/C++_LANGCSD/build/CMakeFiles/rebuild_cache.dir

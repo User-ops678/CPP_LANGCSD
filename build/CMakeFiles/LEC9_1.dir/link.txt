@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/LEC9_1.dir/LEC9_1.cpp.o -o LEC9_1   -L/home/nikos/C++_LANGCSD/build/fltk-1.3.5/lib/Debug  -Wl,-rpath,/home/nikos/C++_LANGCSD/build/fltk-1.3.5/lib/Debug -lbookgui -lfltk -lfltk_images 

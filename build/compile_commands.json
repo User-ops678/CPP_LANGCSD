@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/nikos/C++_LANGCSD/build",
+  "command": "/usr/bin/g++  -I\"/home/nikos/C++_LANGCSD/Lecture 9/fltk-1.3.5\" -I/home/nikos/C++_LANGCSD/build/fltk-1.3.5 -I\"/home/nikos/C++_LANGCSD/Lecture 9/GUI\" -I\"/home/nikos/C++_LANGCSD/Lecture 9/../GUI\" -I\"/home/nikos/C++_LANGCSD/Lecture 9/.\" -g -o CMakeFiles/LEC9_1.dir/LEC9_1.cpp.o -c \"/home/nikos/C++_LANGCSD/Lecture 9/LEC9_1.cpp\"",
+  "file": "/home/nikos/C++_LANGCSD/Lecture 9/LEC9_1.cpp",
+  "output": "CMakeFiles/LEC9_1.dir/LEC9_1.cpp.o"
+}
+]
